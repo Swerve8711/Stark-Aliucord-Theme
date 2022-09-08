@@ -7,7 +7,8 @@
         "license": "GNU-3.0"
     },
     "background": {
-        "url": "https:\/\/raw.githubusercontent.com\/Swerve8711\/Stark-Aliucord-Theme\/main\/background.jpg"
+        "url": "https:\/\/raw.githubusercontent.com\/Swerve8711\/Stark-Aliucord-Theme\/main\/background.jpg",
+        "overlay_alpha": 50
     },
     "fonts": {
         "*": "https:\/\/github.com\/Swerve8711\/Stark-Aliucord-Theme\/blob\/main\/fonts.ttf?raw=true"
