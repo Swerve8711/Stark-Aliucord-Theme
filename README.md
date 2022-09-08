@@ -19,7 +19,7 @@ Create an Issue in github and submit the bug with this template
 MY user name in discord is: 
 The bug is: 
 ```
-Or [Dm me in discord](https://discord.com/users/756885340047802410) in discord
+Or [Dm me in discord](https://discord.com/users/756885340047802410)
 
 #### License & Raw
 [GNU📃](https://github.com/Swerve8711/Stark-Aliucord-Theme/LICENSE) [Raw file/Updater🤓](https://raw.githubusercontent.com/Swerve8711/Stark-Aliucord-Theme/main/Stark.json) 
