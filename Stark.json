@@ -1,0 +1,30 @@
+{
+    "manifest": {
+        "author": "ֆwerve#8711",
+        "name": "Stark",
+        "version": "2.9"
+    },
+    "background": {
+        "url": "https:\/\/raw.githubusercontent.com\/Swerve8711\/Stark-Aliucord-Theme\/main\/background.jpg"
+    },
+    "fonts": {
+        "*": "https:\/\/github.com\/Swerve8711\/Stark-Aliucord-Theme\/blob\/main\/fonts.ttf?raw=true"
+    },
+    "simple_colors": {
+        "background": 0,
+        "background_secondary": 0,
+        "input_background": 1040187393,
+        "accent": -462444066,
+        "mention_highlight": -1223077760,
+        "active_channel": 1463886877
+    },
+    "colors": {
+        "link": -10191147,
+        "primary_dark_300": -8158333,
+        "primary_dark_200": -3032900,
+        "primary_dark_400": -7827310,
+        "primary_dark_800": -16777216
+    },
+    "drawable_tints": {},
+    "raws": {}
+}
