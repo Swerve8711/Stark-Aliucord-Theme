@@ -4,7 +4,6 @@ Theme made by [ֆwerve#8711](https://discord.com/users/756885340047802410)
 This theme was created by me and its Just chill theme and probbly the moust basic theme you ever seen. 
 ```md
 This theme uses:
--Dark mode ONLY
 -Full transparency
 -Custom fonts
 -Auto Updates
